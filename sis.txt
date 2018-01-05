@@ -1,0 +1,13 @@
+microsoft sql server2008
+
+db-psis
+
+dsn-projectsis
+
+geninfo-stud_roll, f_name, l_name, city
+
+acadinfo-stud_roll, sub1,...sub6, prac
+
+deptinfo-stud_roll, branch, batch
+
+guarinfo-stud_roll, father, mother, occu, anninc
